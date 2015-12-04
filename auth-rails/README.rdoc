@@ -1,0 +1,3 @@
+== Rails authentication
+- This is authentication your user in your web app
+- Clone this repo and use this as you wish :)
